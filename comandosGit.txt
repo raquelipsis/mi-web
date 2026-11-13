@@ -13,3 +13,4 @@ git log --oneline
 
 git diff
 
+gti restore index.html
