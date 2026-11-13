@@ -12,3 +12,4 @@ git commit -m "Crea la página de inicio"
 git log --oneline
 
 git diff
+
