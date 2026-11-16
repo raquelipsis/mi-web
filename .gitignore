@@ -2,3 +2,7 @@
 comandosGit.txt
 /personales/texto.txt
 /Hello-World
+
+node_modules/
+.env
+*.log
